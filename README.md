@@ -4,9 +4,8 @@ programação de baixo nível.
 
 ##
 <div style="display:inline-block">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srleo12&layout=compact&langs_count=16&theme=tokyonight"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srleo12&layout=compact&langs_count=16&theme=tokyonight" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Srleo12&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" /></a>
   <div/>
-  <div>
 
 ##
 
@@ -28,7 +27,6 @@ programação de baixo nível.
   <img align="center" alt="VS_Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="VS_Code" height="37" width="37" src= "https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
   <img align="center" alt="Delphi11" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
-  
 </div>
 
   ##
