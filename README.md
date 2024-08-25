@@ -4,7 +4,7 @@ programação de baixo nível.
 
 ##
 <div style="display:inline-block">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srleo12&layout=compact&langs_count=16&theme_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srleo12&layout=compact&langs_count=16&theme=tokyonight"/>
   <div/>
   <div>
 
