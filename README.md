@@ -9,6 +9,10 @@ programação de baixo nível.
 
 ##
 
+<img src="https://raw.githubusercontent.com/CarlosNatanael/CarlosNatanael/output/snake.svg" alt="Snake animation" />
+
+##
+
 <div style="display: inline_block"><br>
   <h2>Linguagens de Progamação:</h3>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
