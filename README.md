@@ -11,6 +11,7 @@ programação de baixo nível.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CarlosNatanael/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
