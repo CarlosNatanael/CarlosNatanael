@@ -9,8 +9,6 @@ programação de baixo nível.
 
 ##
 
-##
-
 <div style="display: inline_block"><br>
   <h2>Linguagens de Progamação:</h3>
 <div align="left">
