@@ -8,9 +8,6 @@ programação de baixo nível.
   <div/>
 
 ##
-
-<div style="display: inline_block"><br>
-  
 <div align="left">
 <h2>Linguagens de Progamação:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
