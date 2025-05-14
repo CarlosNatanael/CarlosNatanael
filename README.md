@@ -6,12 +6,12 @@ programação de baixo nível.
 <div style="display:inline-block">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNatanael&layout=compact&langs_count=16&theme=ocean_dark" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNatanael&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean_dark" /></a>
   </div>
-  
-##
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosNatanael&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" />
-</div>
-##
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CarlosNatanael/output/snake.svg" alt="Snake animation" />
+###
+
 
 <div align="left">
 <h2>Linguagens de Progamação:</h2>
