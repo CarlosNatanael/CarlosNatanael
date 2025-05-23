@@ -54,7 +54,7 @@ programação de baixo nível.
   <h2>Ferramentas:</h3>
   <img align="center" alt="MariaDB" height="40" width="40" src= "https://avatars.githubusercontent.com/u/5877084?s=200&v=4" />
   <img align="center" alt="Lazarus" height="40" width="40" src="https://user-images.githubusercontent.com/5601608/236861918-62a06a26-677f-4e1d-a5a3-aeb30980a259.png"/>
-  <img align="center" alt="DelphRAD" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477976-37738500-d5d5-11eb-8171-f917fdc231a5.png" />
+  <img align="center" alt="DelphRAD" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477976-37738500-d5d5-11eb-8171-f917fdc231a5.png"/>
   <img align="center" alt="DelphRAX" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123478002-3e01fc80-d5d5-11eb-983d-d8aaa7ead156.png" />
   <img align="center" alt="Delphi11" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
 </div>
