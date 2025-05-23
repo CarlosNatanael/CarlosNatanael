@@ -8,13 +8,13 @@ programação de baixo nível.
 </div>
   
 ###
-<!--
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CarlosNatanael/CarlosNatanael/output/snake.svg" alt="Snake animation" />
 
 ###
--->
+
 
 <div align="left">
 <h2>Linguagens de Progamação:</h2>
