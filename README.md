@@ -10,7 +10,7 @@ programação de baixo nível.
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CarlosNatanael/CarlosNatanael/output/snake.sv" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CarlosNatanael/CarlosNatanael/output/snake.svg" alt="Snake animation" />
 
 ###
 
