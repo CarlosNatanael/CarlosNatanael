@@ -4,7 +4,7 @@ programação de baixo nível.
 
 ###
 <div style="display:inline-block">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNatanael&layout=compact&langs_count=16&theme=dark" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNatanael&show_icons=true&hide=contribs,prs&cache_seconds=864&theme=dark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNatanael&layout=compact&langs_count=16&theme=dark_yellow" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosNatanael&show_icons=true&hide=contribs,prs&cache_seconds=864&theme=dark_yellow"/></a>
 </div>
   
 ###
