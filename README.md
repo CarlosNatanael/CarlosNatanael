@@ -60,6 +60,7 @@ programação de baixo nível.
   <img align="center" alt="DelphRAD" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477976-37738500-d5d5-11eb-8171-f917fdc231a5.png"/>
   <img align="center" alt="DelphRAX" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123478002-3e01fc80-d5d5-11eb-983d-d8aaa7ead156.png" />
   <img align="center" alt="Delphi11" height="40" width="40" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" />
+  <img align="center" alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 
