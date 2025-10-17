@@ -1,6 +1,4 @@
-## Hello World, Sou Carlos Natanael!
-Desenvolvedor de Software apaixonado por criar soluções eficientes para desktop e mobile. Foco em criar soluções robustas e eficientes, interesse crescente em sistemas embarcados e
-programação de baixo nível.
+## Hello World
 
 ###
 <div style="display:inline-block">
