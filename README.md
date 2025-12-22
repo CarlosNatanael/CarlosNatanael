@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello,+Word!"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c9d1d9&width=435&lines=print(%22hello%2C+word!%22))](https://git.io/typing-svg)
 ###
 <div style="display:inline-block">
 <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosNatanael&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6a329f&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
