@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=1000&color=C9D1D9&width=435&lines=print("Always+here,+but+never+here."))](https://git.io/typing-svg)
 ###
 <div style="display:inline-block">
-<img width="39%"  src="https://github.com/CarlosNatanael/github-status/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img width="39%"  src="https://github.com/CarlosNatanael/github-status/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CarlosNatanael&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=6a329f&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlosNatanael&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ###
