@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/CarlosNatanael/CarlosNatanael/output/snake.svg" alt="Snake animation" /> -->
 
-###
+<!-- ###
 
 <h2 align="center">Tecnologias & Ferramentas</h2>
 
@@ -65,6 +65,7 @@
   <img align="center" alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </details>
 
+-->
 
 ###
 <h2 align="center">Contatos</h2>
